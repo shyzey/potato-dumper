@@ -1,4 +1,4 @@
-# <img width="50" height="50" align="center" alt="icon" src="https://github.com/user-attachments/assets/3740a7a0-b58d-411f-b13f-7d51b7c956c6" /> potato dumper. — автоматический мониторинг цен для Plati.Market
+# <img width="50" height="50" align="center" alt="icon" src="https://github.com/user-attachments/assets/3740a7a0-b58d-411f-b13f-7d51b7c956c6" /> potato dumper. — автоматический репрайсер для Plati.Market
 
 Инструмент для продавцов на площадке Plati.Market. Программа в реальном времени отслеживает цены конкурентов и автоматически корректирует ваши цены, чтобы вы всегда оставались на первой позиции в выдаче, сохраняя при этом заданную маржинальность.
 
