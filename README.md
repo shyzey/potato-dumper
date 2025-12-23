@@ -28,7 +28,7 @@
 * **[@potatocorporation](https://t.me/potatocorporation)**
 * **[Plati.Market](https://plati.market/itm/activation-of-keys-xbox-microsoft/4861778)**
 
-<img width="849" height="800" alt="image" src="https://github.com/user-attachments/assets/3463d8de-804e-4544-9136-05072f6f49cf" />
+<img width="849" height="799" alt="image" src="https://github.com/user-attachments/assets/c5858dfc-6450-4a4b-a9c9-b083a8b40064" />
 
 ---
 
