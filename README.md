@@ -1,4 +1,4 @@
-# <img width="50" height="50" align="center" alt="icon" src="https://github.com/user-attachments/assets/3740a7a0-b58d-411f-b13f-7d51b7c956c6" /> potato dumper. — автоматический репрайсер для Plati.Market
+# <img width="50" height="50" align="center" alt="icon" src="https://github.com/user-attachments/assets/3740a7a0-b58d-411f-b13f-7d51b7c956c6" /> potato dumper. — репрайсер для Plati.Market
 
       Тебе надоело по тысячу раз на дню проверять все свои товары? У меня есть для тебя решение.
 
