@@ -34,7 +34,7 @@ Telegram для покупки: **[@potatocorporation](https://t.me/potatocorpor
 
 Актуальная версия программы скачивается через установщик в разделе **Releases** этого репозитория. *(обновления приходят автоматически, вам не нужно качать новые версии вручную)*
 
-╰┈➤ **[Скачать](https://github.com/ВАШ_НИКНЕЙМ/potato-dumper/releases/latest)**
+╰┈➤ **[Скачать](https://github.com/shyzey/potato-dumper/releases/tag/1.0)**
 
 ---
 
