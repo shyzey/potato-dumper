@@ -27,7 +27,7 @@
 
 Актуальная версия программы скачивается в разделе **Releases** этого репозитория.
 
-╰┈➤ **[Скачать](https://github.com/shyzey/potato-dumper/releases/tag/1.0)**
+╰┈➤ **[Скачать](https://github.com/shyzey/potato-dumper/releases)**
 
 ---
 
