@@ -1,0 +1,19 @@
+# Кэш и настройки
+**/__pycache__/
+**/.vs/
+*.pyc
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Сборки и исполняемые файлы
+*.exe
+dist/
+build/
+*.spec
+
+# JSON и тесты
+*.json
+test/
+price.py
